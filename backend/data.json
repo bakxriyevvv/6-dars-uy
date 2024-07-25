@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Azamat",
+    "phone": "1234567890",
+    "password": "password1",
+    "username": "azamat"
+  },
+  {
+    "id": 2,
+    "name": "Temur",
+    "phone": "2345678901",
+    "password": "password2",
+    "username": "Temur"
+  },
+  {
+    "id": 3,
+    "name": "Hasan",
+    "phone": "3456789012",
+    "password": "password3",
+    "username": "hasan"
+  },
+  {
+    "id": 4,
+    "name": "Kamron",
+    "phone": "4567890123",
+    "password": "password4",
+    "username": "kamron"
+  },
+  {
+    "id": 5,
+    "name": "Eve",
+    "phone": "5678901234",
+    "password": "password5",
+    "username": "eve"
+  },
+  {
+    "id": 8,
+    "name": "Azamat",
+    "phone": "1234567890",
+    "password": "password1",
+    "username": "azamat"
+  }
+]

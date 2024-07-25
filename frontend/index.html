@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User CRUD</title>
+</head>
+<body>
+    <h1 style="text-align:center">User CRUD Application</h1>
+    <div style="text-align: center;align-items: center;justify-content: center;">
+        <h2 style="text-align:center" >Create User</h2>
+        <form id="createUserForm">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+            <label for="phone">Phone:</label>
+            <input type="text" id="phone" name="phone" required><br><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br><br>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required><br><br>
+            <button type="submit">Create</button>
+        </form>
+    </div>
+    <div style="text-align:center">
+        <h2>Users List</h2>
+        <ul id="usersList"></ul>
+    </div>
+    <script src="js.js"></script>
+</body>
+</html>
